@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nur Khalifah | Portfolio</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+
+    <header class="navbar">
+
+        <div class="logo">
+            N.K<span>♡</span>
+        </div>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#experience">Experience</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+    </header>
+
+
+    <!-- ================= HERO ================= -->
+
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <div class="small-title">
+                ✿ HELLO, WELCOME TO MY PORTFOLIO ✿
+            </div>
+
+            <h1>
+                Hallooww! <br>
+                I'm <span>Nur Khalifah</span>
+            </h1>
+
+            <p class="hero-text">
+                Student of <strong>Computer & Network Engineering</strong>
+                yang tertarik dengan teknologi, desain kreatif,
+                dan dunia digital.
+            </p>
+
+            <div class="buttons">
+
+                <a href="#about" class="btn btn-pink">
+                    About Me ♡
+                </a>
+
+                <a href="#contact" class="btn btn-outline">
+                    Contact Me
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- FOTO -->
+
+        <div class="hero-photo">
+
+            <div class="circle-decoration"></div>
+
+            <div class="photo-frame">
+
+                <img src="lipahhhh.png" alt="Foto Nur Khalifah">
+
+            </div>
+
+            <div class="cute-star star1">✦</div>
+            <div class="cute-star star2">♡</div>
+            <div class="cute-star star3">✿</div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= ABOUT ================= -->
+
+    <section id="about" class="section">
+
+        <div class="section-heading">
+
+            <p>GET TO KNOW ME</p>
+
+            <h2>About <span>Me</span> ♡</h2>
+
+        </div>
+
+
+        <div class="about-wrapper">
+
+            <div class="about-photo">
+
+                <div class="mini-card">
+                    🌷
+                </div>
+
+                <img src="profile.png" alt="Nur Khalifah">
+
+            </div>
+
+
+            <div class="about-content">
+
+                <div class="hello-box">
+                    Hallooww! 👋🏻
+                </div>
+
+                <h3>
+                    I'm Nur Khalifah
+                </h3>
+
+                <p>
+                    Nama saya <strong>Nur Khalifah</strong>.
+                    Saya merupakan siswi di
+                    <strong>SMKN 1 KETAPANG</strong>,
+                    jurusan <strong>Teknik Komputer dan Jaringan
+                    (TKJ)</strong> dan saat ini saya berada di
+                    kelas <strong>XI TKJ 2</strong>.
+                </p>
+
+                <p>
+                    Saya memiliki ketertarikan pada bidang teknologi
+                    dan kreativitas. Selain mempelajari dunia IT,
+                    saya juga senang mengedit <strong>poster,
+                    infografis, dan feed Instagram</strong>.
+                </p>
+
+
+                <div class="info-list">
+
+                    <div>
+                        <span>🎓 Sekolah</span>
+                        <strong>SMKN 1 KETAPANG</strong>
+                    </div>
+
+                    <div>
+                        <span>💻 Jurusan</span>
+                        <strong>Teknik Komputer & Jaringan</strong>
+                    </div>
+
+                    <div>
+                        <span>📚 Kelas</span>
+                        <strong>XI TKJ 2</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= SKILLS ================= -->
+
+    <section id="skills" class="section skills-section">
+
+        <div class="section-heading">
+
+            <p>WHAT I CAN DO</p>
+
+            <h2>My <span>Skills</span> ✨</h2>
+
+        </div>
+
+        <p class="description">
+            Beberapa kemampuan yang saya pelajari dan terus saya kembangkan.
+        </p>
+
+
+        <div class="skills-container">
+
+
+            <div class="skill-card">
+
+                <div class="skill-icon">
+                    💻
+                </div>
+
+                <h3>IT & Networking</h3>
+
+                <p>
+                    Mempelajari komputer, jaringan komputer,
+                    dan teknologi jaringan.
+                </p>
+
+                <div class="skill-line"></div>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <div class="skill-icon pink">
+                    🎨
+                </div>
+
+                <h3>Poster Editing</h3>
+
+                <p>
+                    Membuat dan mengedit poster dengan
+                    tampilan yang menarik dan kreatif.
+                </p>
+
+                <div class="skill-line"></div>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <div class="skill-icon cream">
+                    📊
+                </div>
+
+                <h3>Infographic</h3>
+
+                <p>
+                    Membuat informasi menjadi lebih
+                    menarik, rapi, dan mudah dipahami.
+                </p>
+
+                <div class="skill-line"></div>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <div class="skill-icon green">
+                    📱
+                </div>
+
+                <h3>Instagram Feed</h3>
+
+                <p>
+                    Mendesain feed Instagram dengan
+                    konsep visual yang menarik.
+                </p>
+
+                <div class="skill-line"></div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= EXPERIENCE ================= -->
+
+    <section id="experience" class="section">
+
+        <div class="section-heading">
+
+            <p>MY JOURNEY</p>
+
+            <h2>My <span>Experience</span> 🌷</h2>
+
+        </div>
+
+
+        <div class="experience-box">
+
+            <div class="experience-icon">
+                🏕️
+            </div>
+
+
+            <div class="experience-text">
+
+                <span class="label">
+                    EKSTRAKURIKULER
+                </span>
+
+                <h3>
+                    Pramuka
+                </h3>
+
+                <h4>
+                    Anggota Komisi Hasri Scout
+                </h4>
+
+                <p>
+                    Saya mengikuti kegiatan ekstrakurikuler
+                    Pramuka dan merupakan anggota
+                    Komisi Hasri Scout. Melalui kegiatan ini,
+                    saya belajar mengenai kerja sama,
+                    tanggung jawab, kedisiplinan, dan
+                    pengalaman berorganisasi.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= CONTACT ================= -->
+
+    <section id="contact" class="section contact-section">
+
+        <div class="section-heading">
+
+            <p>LET'S CONNECT</p>
+
+            <h2>Contact <span>Me</span> 💌</h2>
+
+        </div>
+
+        <p class="description">
+            Yuk, kenalan dan terhubung dengan saya! ♡
+        </p>
+
+
+        <div class="contact-wrapper">
+
+
+            <a
+                href="mailto:khalifahn519@gmail.com"
+                class="contact-card"
+            >
+
+                <div class="contact-icon">
+                    📧
+                </div>
+
+                <div>
+                    <span>Email</span>
+                    <strong>
+                        khalifahn519@gmail.com
+                    </strong>
+                </div>
+
+            </a>
+
+
+            <div class="contact-card">
+
+                <div class="contact-icon">
+                    🏫
+                </div>
+
+                <div>
+                    <span>Sekolah</span>
+                    <strong>
+                        SMKN 1 KETAPANG
+                    </strong>
+                </div>
+
+            </div>
+
+
+            <div class="contact-card">
+
+                <div class="contact-icon">
+                    🎓
+                </div>
+
+                <div>
+                    <span>Kelas</span>
+                    <strong>
+                        XI TKJ 2
+                    </strong>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <div class="footer-logo">
+            Nur Khalifah ♡
+        </div>
+
+        <p>
+            Made with love & creativity 🌷
+        </p>
+
+        <small>
+            © 2026 Nur Khalifah — Portfolio
+        </small>
+
+    </footer>
+
+
+</body>
+</html>
